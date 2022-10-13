@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ridvan-Okovic
 - 👀 I’m interested in technology, mainly software development and engineering.
-- 🌱 I’m currently studying towards my bachelor's degree from International Univeristy of Sarajevo in Software Engineering department.
+- 🌱 I’m currently studying towards my bachelor's degree from Software Engineering at International Univeristy of Sarajevo.
 - 📫 How to reach me - through my email which is okovic.ridvan@gmail.com
 
 <!---
