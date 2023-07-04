@@ -17,11 +17,7 @@
   
   <div align="left">
     <h3>About me:</h3>
-    <p>I am a Software Engineer from Bosnia and Herzegovina.</p>
-    <ul>
-      <li>I am currently studying towards my Bachelors degree from International Univeristy of Sarajevo.</li>
-      <li>I am interested in the fields of web development, machine learning and artificial intelligence.</li>
-    </ul>
+    <p>I am a BSc in Software Engineer from Bosnia and Herzegovina.</p>
   </div>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic" width="500px"/>
