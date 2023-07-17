@@ -25,6 +25,7 @@
   </h1>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic&theme=tokyonight" width="500px"/>
+  <hr />
   <img height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ridvan-Okovic&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
   <img height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ridvan-Okovic&hide=jupyter%20notebook&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
 
