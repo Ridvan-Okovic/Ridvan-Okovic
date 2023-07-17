@@ -21,7 +21,7 @@
   </div>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic" width="500px"/>
-  <img width="300px" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ridvan-Okovic&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ridvan-Okovic&layout=compact&langs_count=7&theme=dracula"/>
 
   
 </div>
