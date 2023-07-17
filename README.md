@@ -20,8 +20,8 @@
     <p>I am a BSc in Software Engineer from Bosnia and Herzegovina.</p>
   </div>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic&theme=dracula" width="500px"/>
-  <img height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ridvan-Okovic&layout=compact&show_icons=true&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic&theme=tokyonight" width="500px"/>
+  <img height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ridvan-Okovic&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
 
   
 </div>
