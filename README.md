@@ -19,6 +19,10 @@
     <h3>About me:</h3>
     <p>I am a BSc in Software Engineer from Bosnia and Herzegovina.</p>
   </div>
+
+  <h1>
+    My GitHub stats! 
+  </h1>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic&theme=tokyonight" width="500px"/>
   <img height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ridvan-Okovic&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
