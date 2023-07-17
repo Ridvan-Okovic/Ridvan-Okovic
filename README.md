@@ -21,9 +21,9 @@
   </div>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic" width="500px"/>
- <img src="https://github-readme-stats.vercel.app/api?username=Ridvan-Okovic&show_icons=true&theme=radical"/>
 
   
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridvan-Okovic&theme=radical)
 
