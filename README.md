@@ -18,17 +18,16 @@
   <div align="left">
     <h3>About me:</h3>
     <p>I am a BSc in Software Engineer from Bosnia and Herzegovina.</p>
+    <p>I am interested in full-stack web development as well as machine learning and AI.</p>
+    <p>The GitHub stats do not fully represent my arsenal of programming languages. I also posses the knowledge about Python, Java, and C++.</p>
   </div>
 
   <h1>
     My GitHub stats! 
   </h1>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic&theme=tokyonight" width="500px"/>
-  <hr />
-  <img height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ridvan-Okovic&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
-  <hr />
-  <img height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ridvan-Okovic&hide=jupyter%20notebook&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
+  <img align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic&theme=tokyonight" width="500px"/>
+  <img align='left' height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ridvan-Okovic&hide=jupyter%20notebook&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
 
   
 </div>
