@@ -26,8 +26,8 @@
     My GitHub stats! 
   </h1>
   
-  <img align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic&theme=tokyonight" width="500px"/>
-  <img align='left' height="197px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ridvan-Okovic&hide=jupyter%20notebook&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
+  <img  style="height: auto; width: 50%;"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ridvan-Okovic&theme=tokyonight" width="500px"/>
+  <img  style="height: auto; width: 40%;"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Ridvan-Okovic&hide=jupyter%20notebook&layout=compact&show_icons=true&langs_count=7&theme=tokyonight"/>
 
   
 </div>
