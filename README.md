@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridvan Oković</h1>
-<h3 align="center">A junior full-stack developer @Comtrade System Integration. Bachelor of Science in Software Engineering. Passionate about full-stack development and AI. Currently working on .NET and NextJS.</h3>
+<h3 align="center">A medior full-stack developer with 2+ years of experience @ Comtrade System Integration. Bachelor of Science in Software Engineering. Passionate about full-stack development and AI. Currently working on .NET and NextJS.</h3>
 
 - 🔭 I’m currently working on [Promoter+](https://sarajevo-veceras-v2-0.vercel.app/)
 
